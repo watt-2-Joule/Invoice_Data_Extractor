@@ -1,0 +1,50 @@
+__pycache__/
+*.pyc
+.env
+*.env
+uploaded_docs/
+vector_store/
+node_modules/
+output/
+uploads/
+build/
+venv/
+ui-ai/
+# Node dependencies
+/node_modules
+trail.ipynb
+# Build output
+/dist
+/build
+
+# Local environment variables
+.env
+.env.*      # if using multiple env files like .env.development
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE or Editor settings
+.vscode
+.idea
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Coverage directory (if using testing)
+coverage/
+
+# Cache
+.cache
+/.parcel-cache
+/.turbo
+/.next
+
+# Optional: lock files you may not want to track
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml

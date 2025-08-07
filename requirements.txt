@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+pytesseract
+PyMuPDF
+Pillow
+python-dotenv
+langchain_google_genai
+langchain
+langchain_core
+pdf2image
+langchain_openai
