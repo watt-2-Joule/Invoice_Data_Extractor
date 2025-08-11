@@ -11,3 +11,4 @@ langchain
 langchain_core
 pdf2image
 langchain_openai
+pandas
